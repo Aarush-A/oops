@@ -13,5 +13,4 @@ int main() {
     int a;
     cin>>a;
     cout<<"The number is prime? (0/1): " <<isprime(a);
-    return 0;
 }
